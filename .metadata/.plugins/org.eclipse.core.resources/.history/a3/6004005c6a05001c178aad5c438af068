@@ -1,0 +1,9 @@
+package Logics;
+
+public class logic {
+	pubic void displaAllFiles()
+	{
+		
+	}
+
+}

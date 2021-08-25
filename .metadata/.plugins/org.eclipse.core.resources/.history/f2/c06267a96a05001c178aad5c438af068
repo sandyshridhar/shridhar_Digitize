@@ -1,0 +1,22 @@
+package Logics;
+
+public class logic {
+	public void displaAllFiles()
+	{
+		
+	}
+
+	public void add_files()
+	{
+		
+	}
+	public void delete_files()
+	{
+		
+	}
+	public void search_files()
+	{
+		
+	}
+
+}
